@@ -42,3 +42,7 @@ submit [問題]
            ├── ...
 </pre>
 `check f`のように実行することで、`ABC257_f.py`がサンプルケースを通るか確認でき、`submit f`で`ABC257_f.py`に書いたコードを提出できる。
+
+## ライセンス
+
+[online-judge-tools](https://github.com/online-judge-tools/oj)のライセンスはhttps://github.com/online-judge-tools/oj/blob/master/LICENSE の通り。
