@@ -1,6 +1,5 @@
 ## 概要
-[online-judge-tools](https://github.com/online-judge-tools/oj)というとてもありがたいツールがあったので、自分のために
-コンテスト準備の自動化及びコマンドの簡略化を行った。
+[online-judge-tools](https://github.com/online-judge-tools/oj)というとてもありがたいツールがあったので、自分のためにコンテスト準備の自動化及びコマンドの簡略化を行った。
 
 ## 準備
 - [online-judge-tools](https://github.com/online-judge-tools/oj)をリンク先の説明に従って導入しておく。
